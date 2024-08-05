@@ -21,7 +21,7 @@ def get_weather(city, textfield, clock, name, labels):
             name.config(text="CURRENT WEATHER")
 
             # Get weather information
-            api = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid=3f618211ae119d16b7a6640789d00f18"
+            api = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid=36d9154e86383f879449bdce9cf7d652"
             response = requests.get(api).json()
 
             if response.get("cod") == 200:
