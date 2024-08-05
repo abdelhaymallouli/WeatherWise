@@ -12,13 +12,6 @@
 - 📊 **Detailed Information**: Displays wind, humidity, description, and pressure.
 - 🛠️ **Robust Error Handling**: Manages invalid inputs and API request failures.
 
-## 📸 Screenshots
-
-![Search](screenshots/search.png)
-*Search for a location*
-
-![Weather Information](screenshots/weather_info.png)
-*Display of weather information*
 
 ## 🚀 Getting Started
 
